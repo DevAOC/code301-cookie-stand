@@ -1,0 +1,23 @@
+#reportRows:nth-child(even) {
+  background-color: pink;
+}
+#reportRows:nth-child(odd) {
+  background-color: #c9b2d9;
+}
+
+table {
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 115px;
+}
+
+thead,
+tfoot {
+  background-color: plum;
+}
+
+th,
+td {
+  padding: 5px;
+  text-align: center;
+}
